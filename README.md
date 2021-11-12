@@ -13,4 +13,3 @@ Columns of this dataset are:
 8.  Transmission : Whether the car is manual or automatic
 9.  Owner : Number of owners the car has previously had
 
-
